@@ -1,0 +1,25 @@
+{
+  "name": "IsoMatrix - 3D Topographic Biometric Engine",
+  "short_name": "IsoMatrix",
+  "description": "Interactive 3D Topographic Biometric Fingerprint Scanner & Heightfield Visualizer with WebSerial and Simulation",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f6f8fb",
+  "theme_color": "#090d16",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "developer tools", "hardware", "graphics"]
+}
